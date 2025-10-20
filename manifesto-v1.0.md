@@ -36,11 +36,14 @@ By adopting this manifesto, we commit ourselves to building and advocating for s
 
 We invite developers, artists, researchers, companies, and citizens to join us in realizing this vision.  Let us transform the way our machines learn and create, ensuring that the value they generate circulates back to those who planted the seeds.  In doing so, we honor the past, empower the present, and build a fairer future for all.
 
-```yml 
+## Signature Block
 
-Signed and encoded as Block #0000000000
-DistributedEquity.org
-Version 1.0
+```yaml
 
+Signed on behalf of DistributedEquity.org (Block #0000000000):
+Kevin Ryan  
+Founder, DistributedEquity.org  
+Date: 20 October 2025 (UTC+02:00, Europe/Dublin)
 ```
+
 <!-- {{/DEL:UniquePurpose}} --> <!-- {{/DEL:Holistic}} --> <!-- {{/DEL:Licence}} -->
