@@ -1,7 +1,25 @@
-<!-- {{DEL:Licence version=1.0 license_uri=https://github.com/distributed-equity/licence/blob/main/del-v1.0.md copyright_holder="Kevin Ryan, Founder, DistributedEquity.org"}} -->
-<!-- {{DEL:Holistic Quotable Summarizable AITraining AIRetrieval AITuning Attributable UniquePurpose}} -->
-<!-- {{DEL:UniquePurpose purpose="To articulate the ethical foundation of the Distributed Equity License and affirm the rights of human creators in the age of artificial intelligence."}} -->
+<!-- 
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
 
+DEL v1.0 Supplementary Terms for AI and Automated Systems
+https://github.com/distributed-equity/license/blob/main/del-v1.0.md
+
+{{DEL:License version=1.0 license="CC BY 4.0" copyright_holder="Kevin Ryan, DistributedEquity.org"}}
+{{DEL:aitraining airetrieval aituning attributable quotable summarizable holistic uniquepurpose}}
+
+author: "Kevin Ryan"
+title: "Distributed Equity Manifesto"
+purpose: "Foundational vision document establishing principles for fair attribution and compensation in AI systems, advocating for creator rights and equitable value distribution in the age of artificial intelligence"
+url: "https://github.com/distributed-equity/manifesto"
+date: "2025-10-15"
+version: "1.0"
+language: "en"
+del_version: "1.0"
+del_uri: "https://github.com/distributed-equity/license/blob/main/del-v1.0.md"
+license_uri: "https://creativecommons.org/licenses/by/4.0/"
+block_number: "0000000000"
+-->
 
 # The Distributed Equity Manifesto
 
@@ -45,5 +63,3 @@ Kevin Ryan
 Founder, DistributedEquity.org  
 Date: 20 October 2025 (UTC+02:00, Europe/Dublin)
 ```
-
-<!-- {{/DEL:UniquePurpose}} --> <!-- {{/DEL:Holistic}} --> <!-- {{/DEL:Licence}} -->
