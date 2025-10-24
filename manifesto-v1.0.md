@@ -61,5 +61,5 @@ We invite developers, artists, researchers, companies, and citizens to join us i
 Signed on behalf of DistributedEquity.org (Block #0000000000):
 Kevin Ryan  
 Founder, DistributedEquity.org  
-Date: 20 October 2025 (UTC+02:00, Europe/Dublin)
+Date: 20 October 2025 (UTC+01:00, Europe/Dublin)
 ```
